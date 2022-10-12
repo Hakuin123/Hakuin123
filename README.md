@@ -11,7 +11,8 @@
 ### 联系方式
 - Email：HK256@qq.com
 - Bilibili：白隐Hakuin
-- Tel：Damedane
+
+当初的GitHub launch code: 46411662
 
 <!---
 Hakuin123/Hakuin123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
