@@ -12,7 +12,9 @@
 - Email：HK256@qq.com
 - Bilibili：白隐Hakuin
 
-当初的GitHub launch code: 46411662
+GitHub Launch Code: 46411662
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakuin123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!---
 Hakuin123/Hakuin123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
