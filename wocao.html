@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>卧槽.html</title>
+    <style type="text/css">
+        body {
+            background-color: #1f1e33;
+        }
+
+        #box {
+            position: absolute;
+            width: 98%;
+            height: 98%;
+            margin: auto;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            overflow: hidden;
+        }
+
+        .start-wocao {
+            position: absolute;
+            width: 150px;
+            height: 80px;
+            margin: auto;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        wc:hover{
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="box"></div>
+    <button class="start-wocao" onclick="start()">卧槽！</button>
+    <script>
+        let count = 0;
+
+        function start() {
+            let clk = setInterval(() => {
+                spawnWocao();
+                count++;
+                if (count == 300) {
+                    count = 0;
+                    clearInterval(clk);
+                }
+            }, 50);
+        }
+
+        function spawnWocao() {
+            let fontsize = Math.random() * 60 + 10;
+            let top = Math.random() * 100;
+            let left = Math.random() * 100;
+            let R = parseInt(Math.random() * 255);
+            let G = parseInt(Math.random() * 255);
+            let B = parseInt(Math.random() * 255);
+            let wc = document.createElement('b');
+            let box = document.getElementById('box');
+            wc.innerHTML = '卧槽';
+            wc.style.color = 'rgb(' + R + ',' + G + ',' + B + ')';
+            wc.style.position = 'absolute';
+            wc.style.fontSize = fontsize + 'px';
+            wc.style.top = top + '%';
+            wc.style.left = left + '%';
+            box.appendChild(wc);
+        }
+    </script>
+</body>
+
+</html>
