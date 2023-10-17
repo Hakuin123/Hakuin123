@@ -2,7 +2,7 @@
 
 这里是**白隐Hakuin**，叫咱**白熊**就好～
 
-十五岁初三生，喜欢折腾感兴趣的事情，热爱信息技术
+十六岁高一生，喜欢折腾感兴趣的事情，热爱信息技术
 
 - 罗小黑死忠粉～(￣▽￣～)~
 - 方舟♖刀客塔 `Dr.白隐Hakuin`
@@ -10,7 +10,7 @@
 - B站LV5小UP [![白隐Hakuin](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D478104735&query=%24.data.follower&suffix=%E5%90%8D%E7%B2%89%E4%B8%9D&style=social&logo=bilibili&label=bilibili)
 ](https://space.bilibili.com/478104735)
 
-认识一下如何？点开[白熊官网](https://www.hk256.top//about)，让我好好做个自我介绍吧！
+认识一下如何？点开[白熊官网](https://www.hk256.top/about)，让我好好做个自我介绍吧！
 
 > “咱等你好久了呢！”
 
